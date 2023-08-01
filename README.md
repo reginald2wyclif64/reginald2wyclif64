@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @reginald2wyclif64
+- 👀 I’m interested in Perl. I’m currently learning Perl.
+- 🌱 Interested in text processing and system administration tasks.
